@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Steve",
+        "last name": "Smith",
+        "isAvenger": "true",
+        "friends": [
+            "peter",
+            "harry"
+        ],
+        "age": 45,
+        "address": {
+            "house no.": "56 B",
+            "street": "Budhapest",
+            "city": "manhattan"
+        }
+    },
+    {
+        "name": "S",
+        "last name": "S",
+        "isAvenger": "false",
+        "friends": [
+            "peter",
+            "harry"
+        ],
+        "age": 45,
+        "address": {
+            "house no.": "56 B",
+            "street": "Budhapest",
+            "city": "manhattan"
+        }
+    },
+    {
+        "name": "Thor",
+        "last name": "Natasha",
+        "isAvenger": "false",
+        "friends": [
+            "peter",
+            "harry"
+        ],
+        "age": 45,
+        "address": {
+            "house no.": "56 B",
+            "street": "Budhapest",
+            "city": "manhattan"
+        }
+    }
+]

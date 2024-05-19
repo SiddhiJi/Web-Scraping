@@ -1,0 +1,7 @@
+// JSON -: is basically a format for data storage and data transmission. 
+//Like there is excel and tables which is also a format
+//JSON is introduced by Douglous Crackford
+//All backend servers and API's transmit JSON data (as every lnguage has its support of understanding)
+//JSON stores data in form of key-value pair(object) or array of objects
+//We can make this type of file using .json extension we cannot write comments in it just neither functions we can 
+//store data in format of key-value. 
